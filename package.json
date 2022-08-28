@@ -1,0 +1,27 @@
+{
+  "name": "challenge-budget-tracker",
+  "version": "1.0.0",
+  "description": "1. [ Description. ](#desc)\r 2. [ Web Address. ](#web-address)\r 3. [ Usage tips. ](#usage)\r 4. [ Features. ](#features)\r 5. [ Credits. ](#credits)\r 6. [ Install Command. ](#commandInstall)\r 7. [ Test Command. ](#commandTest)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milfred08/BudgetTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milfred08/BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/Milfred08/BudgetTracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "morgan": "^1.10.0"
+  }
+}
