@@ -27,7 +27,7 @@ For more information - Please visit the following video on how the application w
 
 Website tutorial: 
 
-add demo video here....
+[Click here to see the demo video!](https://clipchamp.com/watch/yt7yBFvF5Rx)
 
 If you are still interested in running the application you would need to do the following:
 * install MongoDb version 4.4.4 as minimum.
