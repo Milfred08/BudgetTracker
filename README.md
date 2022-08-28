@@ -4,9 +4,8 @@
 2. [ Web Address. ](#web-address)
 3. [ Usage tips. ](#usage)
 4. [ Features. ](#features)
-5. [ Credits. ](#credits)
-6. [ Install Command. ](#commandInstall)
-7. [ Test Command. ](#commandTest)
+5. [ Install Command. ](#commandInstall)
+6. [ Test Command. ](#commandTest)
 
 <a name="desc"></a>
 ## 1. Description
@@ -30,8 +29,6 @@ Website tutorial:
 
 add demo video here....
 
-If you want to run locally perform the following:
-
 If you are still interested in running the application you would need to do the following:
 * install MongoDb version 4.4.4 as minimum.
 * npm i
@@ -43,11 +40,6 @@ If you are still interested in running the application you would need to do the 
 1) Go offline and submit transactions, these transactions will be sent to mongoDB with mongoose once the browser goes online.
 2) Download your app while online and use it as if a web browser version.
 
-<a name="credits"></a>
-## 5. Credits
-
-Thank you Esteban Romero for working on this project.
-
 <a name="commandInstall"></a>
 ## 6. Install Command
 
@@ -57,7 +49,7 @@ Thank you Esteban Romero for working on this project.
 npm i
 
 <a name="commandTest"></a>
-## 7. Test Command
+## 6. Test Command
 
 No test commands available, if you would like any, please let me know.
 
