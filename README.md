@@ -1,4 +1,4 @@
-## pwa-challenge-budget-tracker: Progressive Web Applications (PWA) Challenge: Budget Tracker
+## Progressive Web Applications (PWA) Challenge: Budget Tracker
 
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
